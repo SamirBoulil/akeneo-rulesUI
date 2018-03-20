@@ -1,7 +1,7 @@
 {
-  "name": "basecom/akeneo-rules-ui",
+  "name": "samirboulil/akeneo-rules-ui",
   "type": "symfony-bundle",
-  "description": "This bundle provides an UI for the Akeneo enterprise rules feature",
+  "description": "This is a test package to test out migration of akeneo PIM 2.2.0",
   "homepage": "https://www.basecom.de",
   "license": "MIT",
   "authors": [
